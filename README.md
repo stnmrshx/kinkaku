@@ -1,4 +1,4 @@
 kinkaku
 =======
 
-Kinkaku Text Mining Analysis
+Kinkaku Text Mining Analysis Tools
