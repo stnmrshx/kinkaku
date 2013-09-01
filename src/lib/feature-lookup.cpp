@@ -24,7 +24,6 @@
 ** SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 **
 **/
-
 #include <kinkaku/feature-lookup.h>
 #include <kinkaku/kinkaku-util.h>
 #include <kinkaku/dictionary.h>
